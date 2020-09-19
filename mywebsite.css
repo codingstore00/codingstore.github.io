@@ -247,7 +247,7 @@ p{
   top: 60%;
   right: 50%;
   transform: translate(0.1%);
-  margin-left: 30px;
+  margin-left: 0px;
   font-size: 80px;
   color: #1b1b1b;
   text-align: center;
@@ -309,7 +309,7 @@ p{
 
   .actionmovies{
     position: relative;
-    margin-left: 75px;
+    margin-left: 25px;
 
   }
   .movieimage{
@@ -393,7 +393,7 @@ p{
   }
   .gamelist{
     margin-top: 25px;
-    margin-left: 75px;
+    margin-left: 25px;
   }
   .btndownload{
     margin-top: 10px;
