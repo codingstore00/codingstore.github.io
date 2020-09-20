@@ -400,6 +400,15 @@ p{
     max-width: 300px;
     padding: 0px 10px;
   }
+  .footer2{
+    padding-left: 30%;
+  }
+  .footer4{
+    padding-left: 30%;
+  }
+  .footer3{
+    padding-left: 30%;
+  }
 }
 .app{
   background-color: #5E5E5E;
@@ -408,6 +417,6 @@ p{
   background-color: #1b1b1b;
   padding-bottom: 10px;
   margin-top: 500px;
-
-
 }
+
+
